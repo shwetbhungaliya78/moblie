@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moblie/static/css/main.3274b984.chunk.css",
+    "main.js": "/moblie/static/js/main.823221c3.chunk.js",
+    "main.js.map": "/moblie/static/js/main.823221c3.chunk.js.map",
+    "runtime~main.js": "/moblie/static/js/runtime~main.8ab6477c.js",
+    "runtime~main.js.map": "/moblie/static/js/runtime~main.8ab6477c.js.map",
+    "static/js/2.afeb26e6.chunk.js": "/moblie/static/js/2.afeb26e6.chunk.js",
+    "static/js/2.afeb26e6.chunk.js.map": "/moblie/static/js/2.afeb26e6.chunk.js.map",
+    "index.html": "/moblie/index.html",
+    "precache-manifest.389d33872079c6a4ee4b1d2677e9e66f.js": "/moblie/precache-manifest.389d33872079c6a4ee4b1d2677e9e66f.js",
+    "service-worker.js": "/moblie/service-worker.js",
+    "static/css/main.3274b984.chunk.css.map": "/moblie/static/css/main.3274b984.chunk.css.map"
+  }
+}
